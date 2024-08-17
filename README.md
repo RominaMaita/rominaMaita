@@ -1,5 +1,6 @@
 ## Hi there 👋
 
+https://i.pinimg.com/236x/f5/d4/75/f5d475dcbc657830c77ab317d34611aa.jpg 
 <!--
 **RominaMaita/rominaMaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
