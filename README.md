@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Regalos tecno para geeks en toda regla](https://github.com/user-attachments/assets/8d4ce9b6-9ca0-4fb9-a007-1ddcf12f0400)
-
+![Toothless-dancing-toothless](https://github.com/user-attachments/assets/0cf00e34-8dd9-4e68-b170-9ec0f520a31d)
 
 
 <!--
