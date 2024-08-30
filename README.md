@@ -1,6 +1,5 @@
 ## Hi there 👋
-![Toothless-dancing-toothless](https://github.com/user-attachments/assets/0cf00e34-8dd9-4e68-b170-9ec0f520a31d)
-
+![descarga (2)](https://github.com/user-attachments/assets/d35c5fab-8ab0-401f-bffc-c2af425e1bc8)
 
 <!--
 **RominaMaita/rominaMaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
