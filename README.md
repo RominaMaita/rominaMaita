@@ -1,5 +1,5 @@
 ## Hi there 👋
-![descarga (2)](https://github.com/user-attachments/assets/d35c5fab-8ab0-401f-bffc-c2af425e1bc8)
+![tumblr_occujlvMQE1qze3hdo1_500_gif (GIF 画像, 500x288 px)](https://github.com/maltin1/maltin1/assets/132960528/cccf8a83-59a0-498b-baf8-9f47220b7445)
 
 <!--
 **RominaMaita/rominaMaita** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
