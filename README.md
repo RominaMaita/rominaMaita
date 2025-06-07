@@ -1,6 +1,4 @@
-## Hi there 👋
-![tumblr_occujlvMQE1qze3hdo1_500_gif (GIF 画像, 500x288 px)](https://github.com/maltin1/maltin1/assets/132960528/cccf8a83-59a0-498b-baf8-9f47220b7445)
-
+👩‍💻 Software engineering student | Peruvian University of Applied Sciences (UPC) | 
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/romina-m-516007302) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ronotfount) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maitarominag@gmail.com) 
@@ -11,3 +9,5 @@
 ![](https://github-readme-stats.vercel.app/api?username=RominaMaita&theme=prussian&hide_border=false&include_all_commits=false&count_private=false)<br/>
 ![](https://nirzak-streak-stats.vercel.app/?user=RominaMaita&theme=prussian&hide_border=false)<br/>
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=RominaMaita&theme=prussian&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+
+![tumblr_occujlvMQE1qze3hdo1_500_gif (GIF 画像, 500x288 px)](https://github.com/maltin1/maltin1/assets/132960528/cccf8a83-59a0-498b-baf8-9f47220b7445)
