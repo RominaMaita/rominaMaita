@@ -1,4 +1,4 @@
-👩‍💻 Software engineering student | Peruvian University of Applied Sciences (UPC) | 
+👩‍💻 Software engineering student | Peruvian University of Applied Sciences (UPC)
 
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/romina-m-516007302) [![Reddit](https://img.shields.io/badge/Reddit-%23FF4500.svg?logo=Reddit&logoColor=white)](https://reddit.com/user/Ronotfount) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maitarominag@gmail.com) 
