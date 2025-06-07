@@ -1,4 +1,5 @@
-👩‍💻 Software engineering student | Peruvian University of Applied Sciences (UPC) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](www.linkedin.com/in/romina-m-516007302)[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maitarominag@gmail.com) 
+👩‍💻 Software engineering student | Peruvian University of Applied Sciences (UPC) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://www.linkedin.com/in/romina-m-516007302)
+[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:maitarominag@gmail.com) 
 ![tumblr_occujlvMQE1qze3hdo1_500_gif (GIF 画像, 500x288 px)](https://github.com/maltin1/maltin1/assets/132960528/cccf8a83-59a0-498b-baf8-9f47220b7445)
 
 # 💻 Tech Stack:
